@@ -1,4 +1,4 @@
 # RoadX
 RoadX Website
 
-A landing Page created for our hackathon idea, RoadX.
+A landing Site created for our hackathon idea, RoadX.
