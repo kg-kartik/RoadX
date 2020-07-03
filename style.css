@@ -11,7 +11,8 @@ body {
     z-index : 10;
 }
 .navbar {
-    background-image : linear-gradient(to right, #a517ba,#5f1782);
+    /* background-image : linear-gradient(to right, #a517ba,#5f1782); */
+    background-image : linear-gradient(to right,#4E44F5,#352AE2);
 }
 .navbar-nav li {
     padding : 0 10px;
@@ -21,14 +22,21 @@ body {
     font-weight: 600;
 }
 #banner {
-    background-image : linear-gradient(to right, #a517ba,#5f1782);
+    /* background-image : linear-gradient(to right, #a517ba,#5f1782); */
+    background-image : linear-gradient(to right,#4E44F5,#352AE2);
     color : #fff;
     padding-top : 5%;
 }
-.promo-title {
+.heading {
     font-size : 40px;
     font-weight : 600;
-    margin-top : 100px;
+    margin-top : 50px;
+    font-family: 'Roboto Mono', monospace;
+}
+.sub-heading {
+    font-family: 'Roboto Mono', monospace;
+    font-weight : 200;
+    font-size: 30px;
 }
 .link {
     color : white;
